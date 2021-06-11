@@ -1,0 +1,1 @@
+It is **My First Directory Inside Git!**
